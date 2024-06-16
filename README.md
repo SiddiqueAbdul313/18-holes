@@ -1,2 +1,3 @@
-# 18-holes
-This is my first git repo
+# 18-holes Golf
+This is my first Git Repository
+Author - Siddique Abdul
